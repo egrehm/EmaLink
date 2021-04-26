@@ -91,6 +91,15 @@ Check the "EmaLink 3_7 3_8 - firmware update guide.docx" if you would like to un
 
 Check the "EmaLink 3_2 3_3 - firmware update guide.docx" if you would like to understand how you can update the firmware for EmaLink with PCB version 3.2 or 3.3. You can use breadboard wires also but you may need to keep them at an angle while flashing as the PCB holes are slightly bigger.
 
+
+### Contact
+
+If you are interested in getting your own emalink, please follow 
+1. <insert step1>
+2. <insert step2>
+3. <insert step3>
+
+
 ### License
 
 The MIT License (MIT)
