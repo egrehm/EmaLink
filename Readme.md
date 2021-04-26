@@ -95,9 +95,9 @@ Check the "EmaLink 3_2 3_3 - firmware update guide.docx" if you would like to un
 ### Contact
 
 If you are interested in getting your own emalink, please follow 
-1. <insert step1>
-2. <insert step2>
-3. <insert step3>
+1. "insert step1"
+2. "insert step2"
+3. "insert step3"
 
 
 ### License
